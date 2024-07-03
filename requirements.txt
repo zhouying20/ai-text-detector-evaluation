@@ -1,0 +1,15 @@
+accelerate
+datasets
+langdetect
+matplotlib
+nltk
+sacremoses
+sentencepiece
+spacy
+textattack
+textflint
+torch
+tqdm
+transformers
+openai
+retriv
